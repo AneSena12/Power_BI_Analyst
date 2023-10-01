@@ -1,6 +1,6 @@
 # Relatório Interativo no Power BI 
 
-Desafio de projeto sobre a criação de um Relatório de Vendas Elegante com Power BI do Santander Bootcamp 2023 - Ciência de Dados com Python.
+Desafio de projeto sobre a criação de um Relatório de Vendas Elegante com Power BI do Santander Bootcamp 2023 - Ciência de Dados com Python da DIO.
 <p align= "center">
   <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" width="30%">
 </p>
