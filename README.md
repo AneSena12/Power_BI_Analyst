@@ -10,6 +10,11 @@ Desafio de projeto sobre a criação de um Relatório de Vendas Elegante com Pow
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Página 1
-
+<p align= "center">
+  <img src="https://github.com/AneSena12/Power_BI_Analyst/blob/main/imgs/Captura%20de%20tela%202023-10-01%20154601.png?raw=true" width="80%">
+</p>
 
 ## Página 2
+<p align= "center">
+  <img src="https://github.com/AneSena12/Power_BI_Analyst/blob/main/imgs/Captura%20de%20tela%202023-10-01%20154623.png?raw=true" width="80%">
+</p>
